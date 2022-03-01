@@ -1,6 +1,6 @@
 lass nombreSyracuse:
 
-  def __init__(self, nom):
+  def __init__(self, nom):  # on suppose que le fichier contient qu'un seul nombre
       self.nom = nom
       self.contenue = 0
   
